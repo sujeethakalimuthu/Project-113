@@ -1,0 +1,14 @@
+h1
+{
+    font-size: 25px !important;
+    font-family: 'Share Tech', sans-serif;
+}
+canvas
+{
+    border:2px double rebeccapurple;
+    border-radius: 20px;
+}
+body
+{
+    background-color:dodgerblue;
+}
